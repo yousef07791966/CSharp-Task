@@ -1,0 +1,7 @@
+C:\Users\Orange\source\repos\task\task\bin\Debug\task.exe.config
+C:\Users\Orange\source\repos\task\task\bin\Debug\task.exe
+C:\Users\Orange\source\repos\task\task\bin\Debug\task.pdb
+C:\Users\Orange\source\repos\task\task\obj\Debug\task.csproj.AssemblyReference.cache
+C:\Users\Orange\source\repos\task\task\obj\Debug\task.csproj.CoreCompileInputs.cache
+C:\Users\Orange\source\repos\task\task\obj\Debug\task.exe
+C:\Users\Orange\source\repos\task\task\obj\Debug\task.pdb
