@@ -1,0 +1,7 @@
+C:\Users\Orange\source\repos\1-07\1-07\bin\Debug\1-07.exe.config
+C:\Users\Orange\source\repos\1-07\1-07\bin\Debug\1-07.exe
+C:\Users\Orange\source\repos\1-07\1-07\bin\Debug\1-07.pdb
+C:\Users\Orange\source\repos\1-07\1-07\obj\Debug\1-07.csproj.AssemblyReference.cache
+C:\Users\Orange\source\repos\1-07\1-07\obj\Debug\1-07.csproj.CoreCompileInputs.cache
+C:\Users\Orange\source\repos\1-07\1-07\obj\Debug\1-07.exe
+C:\Users\Orange\source\repos\1-07\1-07\obj\Debug\1-07.pdb
